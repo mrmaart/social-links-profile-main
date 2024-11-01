@@ -20,7 +20,7 @@ body {
   background-color: var(--Grey800);
   max-width: 320px;
   width: 70%;
-  border-radius: 20px;
+  border-radius: 10px;
   padding: 2rem;
   place-items: center;
 }
@@ -39,8 +39,8 @@ body {
 
 .card-location {
   color: var(--Green);
-  font-size: 14px;
-  font-weight: 700;
+  font-size: 13px;
+  font-weight: 600;
   margin-top: 0px;
 }
 
